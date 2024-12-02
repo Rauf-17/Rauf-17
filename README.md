@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raufull Islam Rauf
-- 👀 I’m interested in Learning
+- 👀 I’m interested in Learning Web Development, ChatBots & Data Analysis
 - 🌱 I’m currently Studying in AIUB
 - 💞️ I’m looking to help others by providing codes and projects of various courses 
 - 📫 How to reach me through LinkedIn my account is pinned.
