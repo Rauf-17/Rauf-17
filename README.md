@@ -1,11 +1,42 @@
-- 👋 Hi, I’m Raufull Islam Rauf
-- 👀 I’m interested in Learning Web Development, ChatBots & Data Analysis
-- 🌱 I’m currently Studying in AIUB
-- 💞️ I’m looking to help others by providing codes and projects of various courses 
-- 📫 How to reach me through LinkedIn my account is pinned.
-- ⚡ Fun fact: I can watch TV/Web series anytime
+# 👋 Hi there, I'm Raufull Islam Rauf!
 
-<!---
-Rauf-17/Rauf-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate and curious learner on a journey through the worlds of **Web Development**, **ChatBots**, and **Data Analysis**.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Currently studying at **American International University-Bangladesh (AIUB)**  
+- 💻 Exploring modern technologies and building projects that solve real-world problems  
+- 🤖 Especially interested in AI-driven applications, automation, and smart web solutions  
+- 🤝 Love collaborating with peers and sharing code/projects to help others learn  
+- 📺 Fun fact: I can binge-watch TV/web series like it’s a full-time job 😄  
+
+---
+
+## 🌱 What I'm Learning
+
+- Full-Stack Web Development  
+- Conversational AI & ChatBots  
+- Data Analysis with Python, Pandas & Jupyter  
+- Machine Learning fundamentals  
+
+---
+
+## 💡 Goals
+
+- Contribute to open-source projects  
+- Build useful tools for students and developers  
+- Continue developing skills in both frontend & backend technologies  
+- Help the developer community by sharing resources and code snippets  
+
+---
+
+## 📫 Connect With Me
+
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/raufislam17/) *(pinned in my profile)*. I'm always open to ideas, collaboration, or just a good tech conversation!
+
+---
+
+> _"Code. Learn. Share. Repeat."_
+
