@@ -21,7 +21,6 @@
 <p align="left">
   <!-- Reduced icon size to 30x30 -->
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30" alt="Angular" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30" height="30" alt="Arduino" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" height="30" alt="Bootstrap" /></a>
   <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="30" height="30" alt="Chart.js" /></a>
   <a href="https://codeigniter.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="30" height="30" alt="CodeIgniter" /></a>
