@@ -52,10 +52,5 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauf-17&layout=compact&theme=tokyonight&bg_color=000000" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rauf-17&show_icons=true&theme=tokyonight&bg_color=000000&count_private=true" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rauf-17&theme=tokyonight&background=000000" alt="GitHub Streak" /></p>
 
 > _"Code. Learn. Share. Repeat."_
