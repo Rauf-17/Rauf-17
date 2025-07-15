@@ -2,12 +2,12 @@
 <h2 align="center">Infinity to Beyond.</h2>
 <h3 align ="center">Developer, Learner, Educator, Researcher. I'm a passionate and curious learner on a journey through the worlds of Web Development, ChatBots, and Data Analysis.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rauf-17&label=Profile%20views&color=0e75b6&style=flat" alt="rauf-17" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rauf-17&label=👀%20Profile%20views&color=1abc9c&style=flat-square" alt="Profile views" />
+</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rauf-17&theme=onedark&background=000000" alt="rauf-17" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rauf-17&theme=gruvbox&no-frame=true&margin-w=15&column=7" alt="GitHub Trophy" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -57,5 +57,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=rauf-17&show_icons=true&theme=tokyonight&bg_color=000000&count_private=true" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rauf-17&theme=tokyonight&hide_border=false" alt="rauf-17 GitHub Streak" />
+</p>
+
 
 > _"Code. Learn. Share. Repeat."_
