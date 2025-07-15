@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rauf-17&theme=gruvbox&no-frame=true&margin-w=15&column=7" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rauf-17&theme=algolia&no-frame=true&margin-w=15&column=7" alt="GitHub Trophy" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rauf-17&show_icons=true&theme=tokyonight&bg_color=000000&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rauf-17&theme=tokyonight&hide_border=false" alt="rauf-17 GitHub Streak" />
+  <img src="https://github-stats.omsimos.com/user/Rauf-17?theme=tokyonight&hide_border=true&count_private=true" alt="rauf-17 GitHub Streak" />
 </p>
 
 
