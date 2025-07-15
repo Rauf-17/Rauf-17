@@ -24,30 +24,26 @@
   <img src="https://cdn.simpleicons.org/chart.js/FF6384" alt="Chart.js" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" alt="CodeIgniter" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" alt="C#" width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/dot-net/512BD4" alt=".NET" width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="30" height="30"/>
   <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="30" height="30" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="30" height="30"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="30" height="30" />
 </p>
 
