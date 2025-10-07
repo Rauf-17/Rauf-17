@@ -25,7 +25,6 @@ Interest: Frontend | Chatbots | Data Analysis | Angular | React
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/angular/DB3032" alt="Angular" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="30" height="30" />
@@ -35,6 +34,7 @@ Interest: Frontend | Chatbots | Data Analysis | Angular | React
   <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="30" height="30" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="30" height="30" />
@@ -82,7 +82,7 @@ Interest: Frontend | Chatbots | Data Analysis | Angular | React
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raufislam17/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:rauf.shuvo3272@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:[rauf.shuvo3272@gmail.com]"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" /></a>
   <a href="https://www.facebook.com/raufull.islam.rauf" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" /></a>
   <a href="https://twitter.com/rauf_shuvo" target="blank"><img src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&style=for-the-badge&logoColor=white" /></a>
 </p>
