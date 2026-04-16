@@ -23,7 +23,7 @@ Interest: Frontend | Chatbots | Data Analysis | Angular | React
 
 ### 🛠️ Languages & Tools
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://cdn.simpleicons.org/angular/DB3032" alt="Angular" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="30" height="30" />
@@ -51,7 +51,6 @@ Interest: Frontend | Chatbots | Data Analysis | Angular | React
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="30" height="30" />
 </div>
-
 ---
 
 
